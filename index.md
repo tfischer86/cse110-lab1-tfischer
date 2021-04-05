@@ -50,3 +50,9 @@ I've played around with a bunch of languages since I started programming, but I 
 ## Important Image
 
 ![Cat picture](./cat_picture.jpg)
+
+## Lab Screenshots
+
+![Git commandline 1](screenshots/git-commands-1.png)
+![Git commandline 2](screenshots/git-commands-2.png)
+![VSCode Git UI](screenshots/vscode-commit-1.png)
