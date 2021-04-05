@@ -14,7 +14,7 @@ Goals for CSE110
 - [ ] Learn Software Engineering
 - [ ] Make an awesome group project
 
-[← Back to Readme](README.md)
+[← Back to Readme](https://github.com/tfischer86/cse110-lab1-tfischer/tree/add-read-me)
 
 ## Table of Contents
 1. [Programming](#programming)
