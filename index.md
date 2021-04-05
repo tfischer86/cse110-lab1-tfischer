@@ -19,6 +19,7 @@ Goals for CSE110
 ## Table of Contents
 1. [Programming](#programming)
 2. [Important Image](#important-image)
+3. [Lab Screenshots](#lab-screenshots)
 
 
 ## Programming
